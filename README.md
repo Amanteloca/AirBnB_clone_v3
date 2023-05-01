@@ -178,8 +178,8 @@ No known bugs at this time.
 
 ## Authors
 
-Abeeb Raheem - [Github](https://github.com/belovetech)
-Ahmed Olawale - [Github](https://github.com/ayobamy)
+Egesionu Charles Obimnaeto - [Github](https://github.com/IamNaeto)
+Isaac Adeyemi - [Github](https://github.com/Hakinzy)
 
 ## License
 
