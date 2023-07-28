@@ -178,8 +178,7 @@ No known bugs at this time.
 
 ## Authors
 
-Egesionu Charles Obimnaeto - [Github](https://github.com/IamNaeto)
-Isaac Adeyemi - [Github](https://github.com/Hakinzy)
+Tony Yeboah - [Github](https://github.com/amanteloca)
 
 ## License
 
